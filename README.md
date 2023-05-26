@@ -24,9 +24,7 @@ This is a practice project to improve UI design skills and more features will be
 ![](./images/screenshot.JPG)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://jgeev.github.io/QRCodeUIDesign/)
 
 ## My process
 
